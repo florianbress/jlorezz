@@ -7,6 +7,6 @@
 
 [jlorezz.de](https://jlorezz.de/)
 
-[![jlorezz's github stats](https://github-readme-stats.vercel.app/api?username=jlorezz&show_icons=true&theme=dracula)](https://twitter.com/jlorezz)
+[![jlorezz's github stats](https://github-readme-stats.vercel.app/api?username=jlorezz&show_icons=true&theme=tokyonight)](https://twitter.com/jlorezz)
 
 ![](https://komarev.com/ghpvc/?username=wtf6yte&color=DD6387)
