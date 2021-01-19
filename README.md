@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, I'm [Florian Bress!](https://jlorezz.de), a passionate self-taught Web and Application Developer 🚀 from Germany.
+Hi, I'm [jlorezz!](https://jlorezz.de), a passionate self-taught Web and Application Developer 🚀 from Germany.
 
   <img align="right" alt="GIF" src="https://github.com/jlorezz/jlorezz/blob/master/code.gif?raw=true" width="500" height="320" />
   
