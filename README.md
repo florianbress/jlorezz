@@ -23,7 +23,7 @@ Hi, I'm [jlorezz!](https://jlorezz.de), a passionate self-taught Web and Applica
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently doing my Bachelor in "Coding and Software Engineering";
-- 🌱 I’m currently learning Vue.js; 
+- 🌱 I’m currently learning Nestjs; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@jlorezz](https://twitter.com/jlorezz);
 - 📝[Resume]
